@@ -94,3 +94,7 @@ iOSInjectionProject/
 
 # Build logs
 build.log
+
+# Release build artifacts
+ScanSnapper_v*.zip
+*.xcarchive
